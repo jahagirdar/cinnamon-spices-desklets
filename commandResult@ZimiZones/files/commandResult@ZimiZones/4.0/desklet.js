@@ -260,6 +260,9 @@ MyDesklet.prototype = {
 },
 
     /**
+},
+
+    /**
      * Display new command results
      **/
     _update() {
